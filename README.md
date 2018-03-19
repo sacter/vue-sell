@@ -1,7 +1,9 @@
-# vue-sell
+# awesomepos
+> vue-sell
 
-## 安装步骤
+## Build Setup
 
+``` bash
 # install dependencies
 npm install
 
@@ -10,3 +12,4 @@ npm run dev
 
 # build for production with minification
 npm run build
+```
